@@ -43,7 +43,7 @@ const App = () => {
     <div className="min-h-screen bg-fixed bg-gray-200 flex items-center justify-center px-3">
       <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
         <h1 className="text-3xl font-bold text-center mb-4 text-black">
-          LinkQRize
+          LinkQR
         </h1>
         <div className="flex flex-col mb-4">
           <input
