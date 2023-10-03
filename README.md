@@ -1,6 +1,6 @@
 # LinkQR Repository 🌐🔗
 
-Live Link : [Link](https://linkqr-rahil1202.netlify.app)
+## Live Link : [Link](https://linkqr-rahil1202.netlify.app)
 
 LinkQR is a web application built using React.JS and Tailwind CSS that allows users to easily generate short URLs and corresponding QR codes. It aims to provide an intuitive and responsive interface for simplifying the process of sharing links and information. 🚀
 
